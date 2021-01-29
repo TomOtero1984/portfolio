@@ -1,0 +1,3 @@
+[submodule "stock_market_tracker"]
+	path = stock_market_tracker
+	url = https://github.com/TomOtero1984/stock_market_tracker
